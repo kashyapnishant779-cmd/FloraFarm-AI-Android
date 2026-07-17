@@ -1,0 +1,6 @@
+{
+  "name": "FloraFarm AI",
+  "description": "Global AI Plant Intelligence & Farming Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
